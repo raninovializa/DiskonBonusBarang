@@ -1,0 +1,9 @@
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\bin\Debug\DiskonBonusBarang.exe
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\bin\Debug\DiskonBonusBarang.pdb
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\bin\Debug\DiskonBonusBarang.xml
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.Form1.resources
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.Resources.resources
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.vbproj.GenerateResource.Cache
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.exe
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.xml
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Pertemuan 9\DiskonBonusBarang\DiskonBonusBarang\obj\x86\Debug\DiskonBonusBarang.pdb
